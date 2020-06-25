@@ -30,7 +30,7 @@ Guide
 ```
 ### 條件
 - 要部屬的Server必須先在```gitlab``` 或是 ```github``` 上新增ssh key，且本地端也要有ssh key。
-- 需先安裝好python3(最好使用python3.6以上)，且有flask 套件
+- 需先安裝好python3(建議使用python3.6以上)，且有flask 套件
 ```
 pip install flask
 ```
