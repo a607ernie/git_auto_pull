@@ -85,7 +85,7 @@ project
 │   │
 └───other repo2
 │   │───test.txt
-│   │
+
 ```
 
 
